@@ -1,0 +1,4 @@
+.psection > b::after {
+  content: "\a";
+  white-space: pre;
+}
